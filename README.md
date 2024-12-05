@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug in MATLAB related to implicit expansion. The bug causes inconsistent behavior when adding matrices of different sizes, sometimes working as expected and other times throwing an error. The bug.m file contains the problematic code, while bugSolution.m provides a solution using explicit expansion or reshaping.
